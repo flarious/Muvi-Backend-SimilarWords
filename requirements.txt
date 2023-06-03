@@ -1,0 +1,6 @@
+fastapi==0.88.0
+uvicorn==0.20.0
+numpy==1.23.5
+nltk==3.7
+langid==1.1.6
+joblib==1.2.0
